@@ -41,7 +41,7 @@ Sou formado em Desenvolvimento de Sistemas, com foco crescente em **Análise de 
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/alfredobenedetti)  
+- 💼 [LinkedIn](https://linkedin.com/in/alfredobenedetti) 
 - 📬 E-mail: alfredo.c-benedetti@outlook.com  
 - 🌍 Portfólio: [meusite.com](https://meusite.com) [Desenvolvimento]
 
