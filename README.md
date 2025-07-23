@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Alfredo Benedetti
+### 👋 Olá! Eu sou o Alfredo Benedetti
 
 👨‍💻 Entusiasta da tecnologia, dados e automação inteligente.
 Transformando informações em decisões estratégicas e automatizando processos para aumentar a eficiência e gerar valor real. Estou sempre em busca de ferramentas modernas e soluções inovadoras que conectem análise, funcionalidade e impacto.
